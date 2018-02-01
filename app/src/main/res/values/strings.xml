@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Order of Coffee</string>
+    <string name="name">Your Name</string>
+    <string name="extra">Toppings </string>
+    <string name="sortOfCoffee">Sort of Coffee / Price per cup</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Are 2 Cups enough for you?</string>
+    <string name="note_to_order">Pick amount of Coffees and push ORDER</string>
+
+    **Toast with quantity**
+    <string name="tost_less_1">You can\'t order less then 1 coffee.</string>
+    <string name="toast_more_100">You can\'t order more then 100 coffees.</string>
+
+    **submitOrder**
+    <string name="name_order">Name:</string>
+    <string name="type_of_coffe_question">Type of coffe:</string>
+    <string name="whipped_cream_question">Add first topping? </string>
+    <string name="chocolate_question">Add second topping?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="email_subject_order">Order of Coffee</string>
+    <string name="quantity_order">How many cups?</string>
+    <string name="total_order">Total:</string>
+    <string name="currency">CZK </string>
+    <string name="thanks">Thank you!</string>
+    <string name="order_button">ORDER</string>
+    <string name="new_order_button">NEW ORDER</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+
+    **spinner**
+    <string-array name="topping1">
+        <item>Without topping</item>
+        <item>Whipped Cream</item>
+        <item>Ice Cream</item>
+        <item>Cookie</item>
+    </string-array>
+
+    <string-array name="topping2">
+        <item>Without topping</item>
+        <item>Chocolate</item>
+        <item>Nuts</item>
+        <item>Cinamon</item>
+    </string-array>
+
+    <string name="without_topping">Without topping</string>
+    <string name="whiped_cream_selected">Whipped Cream</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="cookie">Cookie</string>
+    <string name="chocolate_selected">Chocolate</string>
+    <string name="nuts">Nuts</string>
+    <string name="cinamon">Cinamon</string>
+
+    <string-array name="sortOfCoffee">
+        <item position="0">Esspreso</item>
+        <item position="1">Late</item>
+        <item position="2">Capucino</item>
+        <item position="3">Lungo</item>
+        <item position="4">Ristreto</item>
+    </string-array>
+
+    <string name="esspreso">Esspreso</string>
+    <string name="late">Late</string>
+    <string name="capucino">Capucino</string>
+    <string name="lungo">Lungo</string>
+    <string name="ristreto">Ristreto</string>
+</resources>

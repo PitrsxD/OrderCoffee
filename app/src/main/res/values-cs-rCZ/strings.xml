@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Objednávka kávy</string>
+    <string name="name">Vaše jméno</string>
+    <string name="extra">Extra</string>
+    <string name="sortOfCoffee">Druh kávy</string>
+    <string name="whipped_cream">Šlehačka</string>
+    <string name="quantity">Jsou dvě kávy pro vás dostatečné?</string>
+    <string name="note_to_order">Zvolte množství šálků a zmáčkněte Objednat</string>
+    <string name="name_order">Jméno: </string>
+    <string name="whipped_cream_question">Přidaná šlehačka? </string>
+    <string name="chocolate_question">Přidaná čokoláda? </string>
+    <string name="email_subject_order">Objednávka kafe</string>
+    <string name="quantity_order">Množství: </string>
+    <string name="total_order">K platbě celkem: </string>
+    <string name="tost_less_1">Nemůžete objednat méně jak 1 kávu.</string>
+    <string name="toast_more_100">Nemůžete objednat více jak 100 káv.</string>
+    <string name="order_button">OBJEDNAT</string>
+    <string name="chocolate">Čokoláda</string>
+    <string name="thanks">Děkujeme za vaši objednávku!</string>
+    <string name="order_summary">SOURHN OBJEDNÁVKY</string>
+    <string name="yes">Ano</string>Ano/string>
+    <string name="no">Ne</string>
+    <string name="currency">Kč</string>
+
+    **spinner**
+    <string-array name="topping1">
+        <item>Šlehačka</item>
+        <item>Zmrzlina</item>
+        <item>Sušenka</item>
+    </string-array>
+
+    <string-array name="topping2">
+        <item>Čokoláda</item>
+        <item>Oříšky</item>
+        <item>Skořice</item>
+    </string-array>
+
+    <string-array name="sortOfCoffee">
+        <item>Esspreso</item>
+        <item>Late</item>
+        <item>Capucino</item>
+        <item>Lungo</item>
+        <item>Ristreto</item>
+    </string-array>
+    <string name="without_topping">Nic navíc</string>
+    <string name="whiped_cream_selected">Šlechačka</string>
+    <string name="ice_cream">Zmrzlina</string>
+    <string name="cookie">Sušenka</string>
+    <string name="chocolate_selected">Čokoláda</string>
+    <string name="nuts">Oříšky</string>
+    <string name="cinamon">Skořice</string>
+</resources>
